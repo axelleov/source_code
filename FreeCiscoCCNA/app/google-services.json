@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710021771766",
+    "project_id": "free-cisco-ccna",
+    "storage_bucket": "free-cisco-ccna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710021771766:android:e6c186d01188958ff6d7d7",
+        "android_client_info": {
+          "package_name": "com.ti5b.freeciscoccna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710021771766-aj4vkeiktr04btsk2pt7no3gnmm5r6ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVPZHC056YvQ8mTyNHBW6IXOb9YDkCvjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710021771766-aj4vkeiktr04btsk2pt7no3gnmm5r6ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
